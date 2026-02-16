@@ -1,0 +1,9 @@
+{
+  "version": "1.0.235",
+  "description": "The AI coding agent built for the terminal.",
+  "homepage": "https://innocode.io",
+  "license": "MIT",
+  "url": "https://github.com/Inno-ki/innocode/releases/download/v1.0.235/innocode-windows-x64.zip",
+  "hash": "26113464692c6c159ba5c10cb04940bad92093347bf85607a10de0996262ea2a",
+  "bin": "innocode.exe"
+}
